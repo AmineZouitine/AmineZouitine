@@ -10,3 +10,5 @@ I also have two brothers who are doing some cool things: [Adil](https://github.c
 Big fan of the Rust programming language 🦀
 
 Thanks for stopping by, and feel free to explore my repositories!
+
+![](https://komarev.com/ghpvc/?username=AmineZouitine)
