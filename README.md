@@ -11,4 +11,3 @@ Big fan of the Rust programming language 🦀
 
 Thanks for stopping by, and feel free to explore my repositories!
 
-![](https://komarev.com/ghpvc/?username=AmineZouitine)
